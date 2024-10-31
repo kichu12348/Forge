@@ -1,0 +1,7 @@
+{
+    "watch": [
+        "server/**/*.js"
+        ],
+    "ext": "js",
+    "exec": "node -r @babel/register server/index.js"
+}
