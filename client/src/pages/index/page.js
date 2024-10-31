@@ -11,7 +11,9 @@ const HomePage = () => {
         <button onClick={() => {
             console.log('Incrementing count');
             setCount(count + 1);
-        }}>Increment</button>
+        }}
+        className="btn"
+        >Increment</button>
         <p>helooooo</p>
     </>
   );

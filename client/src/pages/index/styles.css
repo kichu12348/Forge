@@ -4,3 +4,7 @@ body{
     align-items: center;
     height: 100svh;
 }
+
+.btn{
+    background-color: red;
+}
