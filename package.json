@@ -10,7 +10,6 @@
     "start": "NODE_ENV=production node server/index.js"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
