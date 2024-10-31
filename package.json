@@ -2,6 +2,7 @@
   "name": "forge",
   "version": "1.0.0",
   "main": "server/index.js",
+  "author": "nithin",
   "scripts": {
     "dev": "nodemon --env-file=.env server/index.js",
     "client": "vite",
